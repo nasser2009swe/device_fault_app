@@ -1,0 +1,18 @@
+[
+  {
+    "code": "101",
+    "name": "الفرع الرئيسي",
+    "type": "Tasaheel"
+  },
+  {
+    "code": "102",
+    "name": "فرع الشمال",
+    "type": "Mashroey"
+  },
+  {
+    "code": "103",
+    "name": "فرع الجنوب",
+    "type": "Tasaheel"
+  }
+]
+
